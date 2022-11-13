@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-kun&label=Profile%20views&color=orange&style=flat" alt="priyanshu-kun" /> </p>
 
-
+```
 - 🔭 I’m currently working on [Kira](https://github.com/priyanshu-kun/Kira)
 
 - 🌱 I’m currently learning **React Native**
@@ -17,6 +17,8 @@
 - 📫 How to reach me **www.linkedin.com/in/priyanshukun**
 
 - ⚡ Fun fact **Anime, Drawing**
+
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
