@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi there * ... *, I'm Priyanshu Kun</h1>
+<img src="https://i.imgur.com/A4UDGlh.png" alt="c"/>
+<h1 align="center">👋 Hi there, I'm Priyanshu Kun</h1>
 <h3 align="center">I'm just a guy who's a coder for fun and I am a man of culture as well.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-kun&label=Profile%20views&color=orange&style=flat" alt="priyanshu-kun" /> </p>
@@ -31,7 +32,7 @@
 
 <hr />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-kun&margin-w=15&margin-h=15&theme=onestar" alt="priyanshu-kun" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-kun&margin-w=15&margin-h=15" alt="priyanshu-kun" /></a> </p>
 
 <hr />
 
