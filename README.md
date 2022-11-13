@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/priyanshu-kun/priyanshu-kun/main/Group%202.png" alt="c"/>
+<img src="https://raw.githubusercontent.com/priyanshu-kun/priyanshu-kun/main/Group%202(1).png" alt="c"/>
 <h1 align="center">👋 Hi there, I'm Priyanshu Kun</h1>
 <h3 align="center">I'm just a guy who's a coder for fun and I am a man of culture as well.</h3>
 
