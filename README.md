@@ -39,11 +39,12 @@
 
 <hr />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-kun&margin-w=15&margin-h=15&column=-1" alt="priyanshu-kun" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-kun&" alt="priyanshu-kun" /></p>
 
 <hr />
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-kun&show_icons=true&locale=en" alt="priyanshu-kun" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-kun&" alt="priyanshu-kun" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-kun&margin-w=15&margin-h=15&column=-1" alt="priyanshu-kun" /></a> </p>
 
