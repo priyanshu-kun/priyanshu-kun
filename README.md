@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **ReactJS, Javascript**
 
-- 📫 How to reach me **www.linkedin.com/in/priyanshu-kun**
+- 📫 How to reach me **[linkedin](https://www.linkedin.com/in/priyanshukun/)**
 
 - ⚡ Fun fact **Anime, Drawing**
 
