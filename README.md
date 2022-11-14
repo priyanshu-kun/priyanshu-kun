@@ -39,7 +39,7 @@
 
 <hr />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-kun&margin-w=15&margin-h=15" alt="priyanshu-kun" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-kun&margin-w=15&margin-h=15&column=-1" alt="priyanshu-kun" /></a> </p>
 
 <hr />
 
