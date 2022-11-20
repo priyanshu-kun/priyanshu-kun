@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Kira](https://github.com/priyanshu-kun/Kira)
 
-- 💬 Ask me about **ReactJS, Javascript**
+- 💬 Ask me about **ReactJS, Javascript, nodejs**
 
 - 📫 How to reach me **[linkedin](https://www.linkedin.com/in/priyanshukun/)**
 
