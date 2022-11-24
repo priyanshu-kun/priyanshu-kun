@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-kun&label=Profile%20views&color=orange&style=flat" alt="priyanshu-kun" /> </p>
 
 ```
-- 🔭 I’m currently working on [Kira](https://github.com/priyanshu-kun/Kira)
+- 🔭 I’m currently working on [Kira](https://github.com/priyanshu-kun/Kira).
 
 - 🌱 I’m currently learning **React Native**
 
