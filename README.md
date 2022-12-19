@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/TZmtA7n.png" alt="c"/>
-<h1 align="center">👋 Hi there, I'm Priyanshu Kun.</h1>
+<h1 align="center">👋 Hi there, I'm Priyanshu Kun</h1>
 <h3 align="center">I'm just a guy who's a coder for fun and I am a man of culture as well.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-kun&label=Profile%20views&color=orange&style=flat" alt="priyanshu-kun" /> </p>
