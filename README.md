@@ -1,13 +1,13 @@
 <img src="https://i.imgur.com/TZmtA7n.png" alt="c"/>
 <h1 align="center">👋 Hi there, I'm Priyanshu Sharma</h1>
-<h3 align="center">I'm just a guy who's a coder for fun and I am a man of culture as well.</h3>
+<h3 align="center">A boring person, busy with boring people</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-kun&label=Profile%20views&color=orange&style=flat" alt="priyanshu-kun" /> </p>
 
 ```
-- 🔭 I’m currently working on [Kira](https://github.com/priyanshu-kun/Kira).
+- 🔭 I’m currently working on opensource project.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Computer Networks**
 
 - 👯 I’m looking to collaborate on [Kira](https://github.com/priyanshu-kun/Kira)
 
