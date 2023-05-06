@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/TZmtA7n.png" alt="c"/>
 <h1 align="center">👋 Hi there, I'm Priyanshu Sharma</h1>
-<h3 align="center">I'm a guy who's in love with computer science and coding in general.</h3>
+<h3 align="center">Creating digital symphonies, where pixels dance to the rhythm of elegant code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-kun&label=Profile%20views&color=orange&style=flat" alt="priyanshu-kun" /> </p>
 
