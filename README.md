@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-kun&label=Profile%20views&color=orange&style=flat" alt="priyanshu-kun" /> </p>
 
 ```
-- 🔭 I’m currently working on open-source project.
+- 🔭 I’m currently contribute to opensource projects.
 
 - 🌱 I’m currently learning **Computer Networks**
 
-- 👯 I’m looking to collaborate on [Kira](https://github.com/priyanshu-kun/Kira)
+- 👯 I’m looking to collaborate on [OpenAPI Web search](https://github.com/priyanshu-kun/openapi-web-search)
 
-- 🤝 I’m looking for help with [Kira](https://github.com/priyanshu-kun/Kira)
+- 🤝 I’m looking for help with [OpenAPI Web search](https://github.com/priyanshu-kun/openapi-web-search)
 
 - 💬 Ask me about **ReactJS, Javascript, Nodejs **
 
