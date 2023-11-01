@@ -1,2 +1,7 @@
 <img src="https://i.imgur.com/4oBsydr.png" alt="c"/>
-<h3 align="center">I'm starting everything from scratch.</h3>
+
+<h4>The Work I did: </h4>
+
+- https://github.com/priyanshu-kun/openapi-web-search
+- https://github.com/priyanshu-kun/Kira
+- https://github.com/priyanshu-kun/coderHouse
